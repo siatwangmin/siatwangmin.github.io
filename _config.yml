@@ -1,10 +1,10 @@
 # Site settings
-title: wangmin Blog
-SEOTitle: 汪敏的博客 | WangMin Blog
+title: WM Blog
+SEOTitle: 汪敏的博客 | WM Blog
 header-img: img/post-bg-desk.jpg
-email: siatwangmin@gmail.com
+email: siatwangmin@163.com
 description: "You may say I'm a dreamer, but I'm not the only one."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+keyword: "BY, BY Blog, 汪敏的博客,汪敏"
 url: "http://siatwangmin.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/siatwangmin/siatwangmin.github.io.git" # you code repository
