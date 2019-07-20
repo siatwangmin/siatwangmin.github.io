@@ -4,15 +4,15 @@ SEOTitle: 汪敏的博客 | WM Blog
 header-img: img/post-bg-desk.jpg
 email: siatwangmin@163.com
 description: "You may say I'm a dreamer, but I'm not the only one."
-keyword: "BY, BY Blog, 汪敏的博客,汪敏"
+keyword: "WM, WM Blog, 汪敏的博客,汪敏"
 url: "http://siatwangmin.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/siatwangmin/siatwangmin.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Dreamer!"
+sidebar-avatar: /img/about-wangmin.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
