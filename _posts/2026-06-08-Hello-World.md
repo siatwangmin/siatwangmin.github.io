@@ -2,7 +2,7 @@
 layout:  post
 title:      Hello World
 subtitle:  重新开始写作，从今天的一小步开始
-date:      2026-06-08 17:09:00
+date:      2026-06-08 17:09:00 +0800
 author:     wangmin
 header-img: img/home-bg-art.jpg
 catalog: true
